@@ -32,8 +32,8 @@ KEX = f"""ㅤ ᴀɴɪᴍᴀʟ ᴜꜱᴇʀʙᴏᴛ ‌🪽
 **• ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** 🐍: `3.11.3`
 **• ᴜꜱᴇʀʙᴏᴛ ᴠᴇʀꜱɪᴏɴ** ⚙️: `M2.0`
 **• ɢʀᴏᴜᴘ 💫: [❤️‍🔥ᴀɴɪᴍᴀʟ❤️‍🔥](https://t.me/knight_society)**
-**• ᴄʜᴀɴɴᴇʟ ✨: [🌹ʙᴇᴀᴜᴛʏ🌹](https://t.me/itsRareBeautySelenaGomez)**
-**• ᴏᴡɴᴇʀ 🫂: [👿ᴊᴀɴᴡᴀʀ😈](https://t.me/AnimalJanwarrrr)**
+**• ᴄʜᴀɴɴᴇʟ ✨: [🌹ʙᴇᴀᴜᴛʏ🌹](https://t.me/tabahi_tabahi)**
+**• ᴏᴡɴᴇʀ 🫂: [👿ᴊᴀɴᴡᴀʀ😈](https://t.me/smartness_to_hai)**
 ➖➖➖➖➖➖➖➖➖➖➖"""
 
 @Client.on_message(
