@@ -43,8 +43,8 @@ if __name__ == "__main__":
     for i, CLIENT in enumerate(CLIENTS):
         try:
             CLIENT.start()
-            CLIENT.join_chat("itsRareBeautySelenaGomez")
-            CLIENT.join_chat("itsRareBeautySelenaGomez")            
+            CLIENT.join_chat("tabahi_tabahi")
+            CLIENT.join_chat("tabahi_tabahi")            
             print(f"ꜱᴛᴏʀᴍ ꜱᴛᴀʀᴛᴇᴅ ᴀꜱ{i+1}")
             print(f"ʙᴏᴏᴛᴇᴅ/ꜱᴛᴀʀᴛᴇᴅ {CLIENT.me.first_name} 🎉")
         except Exception as e:
