@@ -35,7 +35,7 @@ FIRST_TEXT = f"""
 **ʜᴇʟᴘ ᴍᴇɴᴜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ᴊᴀɴᴡᴀʀ](https://te.legra.ph/file/ec19cf227791a167abedc.jpg)** ✨
 
 **ᴄʜᴀɴɴᴇʟ: [❤️‍🔥ᴀɴɪᴍᴀʟ❤️‍🔥](https://t.me/knight_society)**
-**ꜱᴜᴘᴘᴏʀᴛ: [🌹ʙᴇᴀᴜᴛʏ🌹](https://t.me/itsRareBeautySelenaGomez)**
+**ꜱᴜᴘᴘᴏʀᴛ: [🌹ʙᴇᴀᴜᴛʏ🌹](https://t.me/tabahi_tabahi)**
 
 **» ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ:** `{hl}helpbot`  
 **» ʀᴀɪᴅ/ꜱᴘᴀᴍ ᴄᴏᴍᴍᴀɴᴅꜱ:** `{hl}helpspam` 
