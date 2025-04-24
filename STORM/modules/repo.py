@@ -31,10 +31,10 @@ async def repo(client, message):
     ** ᴀɴɪᴍᴀʟ ᴜꜱᴇʀʙᴏᴛ **
 
     • **ɢɪᴛʜᴜʙ** » [click here](https://te.legra.ph/file/ec19cf227791a167abedc.jpg) 
-    • **ꜱᴜᴘᴘᴏʀᴛ** » [click here](https://t.me/itsRareBeautySelenaGomez) 
+    • **ꜱᴜᴘᴘᴏʀᴛ** » [click here](https://t.me/tabahi_tabahi) 
     • **ᴜᴘᴅᴀᴛᴇꜱ** » [click here](https://t.me/knight_society)
-    • **ᴅᴇᴠᴇʟᴏᴘᴇʀ** » [click here](https://t.me/AnimalJanwarrrr)
+    • **ᴅᴇᴠᴇʟᴏᴘᴇʀ** » [click here](https://t.me/smartness_to_hai)
     
-    **ʙʏ @AnimalJanwarrrr**
+    **ʙʏ @smartness_to_hai**
     """
     await message.edit(msg)
