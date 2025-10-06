@@ -27,13 +27,13 @@ from config import ALIVE_PIC, SUDO_USERS
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
-KEX = f"""ㅤ ᴀɴɪᴍᴀʟ ᴜꜱᴇʀʙᴏᴛ ‌🪽
+KEX = f"""ㅤ ᴅʀ sᴏɴᴀʟ ᴜꜱᴇʀʙᴏᴛ ‌🪽
 ➖➖➖➖➖➖➖➖➖➖➖
 **• ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** 🐍: `3.11.3`
 **• ᴜꜱᴇʀʙᴏᴛ ᴠᴇʀꜱɪᴏɴ** ⚙️: `M2.0`
-**• ɢʀᴏᴜᴘ 💫: [❤️‍🔥ᴀɴɪᴍᴀʟ❤️‍🔥](https://t.me/knight_society)**
-**• ᴄʜᴀɴɴᴇʟ ✨: [🌹ʙᴇᴀᴜᴛʏ🌹](https://t.me/tabahi_tabahi)**
-**• ᴏᴡɴᴇʀ 🫂: [👿ᴊᴀɴᴡᴀʀ😈](https://t.me/smartness_to_hai)**
+**• ᴘʀᴏᴏғs 💫: [❤️‍🔥ᴅʀ sᴏɴᴀʟ❤️‍🔥](https://t.me/)**
+**• ᴘʀᴏᴏғs ✨: [🌹ᴅʀ sᴏɴᴀʟ🌹](https://t.me/)**
+**• ᴏᴡɴᴇʀ 🫂: [👿ᴅʀ sᴏɴᴀʟ😈](https://t.me/)**
 ➖➖➖➖➖➖➖➖➖➖➖"""
 
 @Client.on_message(
@@ -44,3 +44,4 @@ async def alive(x: Client, msg: Message):
               await x.send_photo(msg.chat.id, ALIVE_PIC, caption=KEX)
        if ".mp4" in ALIVE_PIC or ".MP4," in ALIVE_PIC:
               await x.send_video(msg.chat.   id, ALIVE_PIC, caption=KEX)    
+
