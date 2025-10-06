@@ -28,17 +28,17 @@ from config import SUDO_USERS
 )
 async def bstats(client, message):
     msg = f"""
-    ** ᴀɴɪᴍᴀʟ ᴜꜱᴇʀʙᴏᴛ **
+    ** ᴅʀ sᴏɴᴀʟ ᴜꜱᴇʀʙᴏᴛ **
 
-    • **ᴅᴇᴠᴇʟᴏᴘᴇʀ** » **[Aɴɪᴍᴀʟ࿐](https://AnimalJanwarrrr)**
+    • **ᴅᴇᴠᴇʟᴏᴘᴇʀ** » **[Aɴɪᴍᴀʟ࿐](https://smartness_to_hai)**
     • **ᴠᴇʀꜱɪᴏɴ** » **2.1.0**
     • **ᴛᴏᴛᴀʟ ᴍᴏᴅᴜʟᴇꜱ** » **80+**
     • **ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅꜱ** » **107+**  
     • **ʙʀᴀɴᴄʜ** » **2.1.x@main**
     • **ᴜꜱᴇʀʙᴏᴛ ʀᴇᴘᴏ** » **[ᴀɴɪᴍᴀʟ-ᴜꜱᴇʀʙᴏᴛ](https://te.legra.ph/file/ec19cf227791a167abedc.jpg)**
-    • **ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ** » **[❤️‍🔥ᴀɴɪᴍᴀʟ❤️‍🔥](https://t.me/knight_society)**
-    • **ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ** » **[🌹ʙᴇᴀᴜᴛʏ🌹](https://t.me/tabahi_tabahi)**        
+    • **ᴘʀᴏᴏғs** » **[❤️‍🔥ᴅʀ sᴏɴᴀʟ❤️‍🔥](https://t.me/)**
+    • **ᴘʀᴏᴏғs** » **[🌹ᴅʀ sᴏɴᴀʟ🌹](https://t.me/)**        
     
-    **ʙʏ @AnimalJanwarrrr**
+    **ʙʏ @smartness_to_hai**
     """
     await message.reply(msg)
