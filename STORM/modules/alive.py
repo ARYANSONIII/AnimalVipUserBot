@@ -32,7 +32,7 @@ KEX = f"""ㅤ ᴅʀ sᴏɴᴀʟ ᴜꜱᴇʀʙᴏᴛ ‌🪽
 **• ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** 🐍: `3.11.3`
 **• ᴜꜱᴇʀʙᴏᴛ ᴠᴇʀꜱɪᴏɴ** ⚙️: `M2.0`
 **• ᴘʀᴏᴏғs 💫: [❤️‍🔥ᴅʀ sᴏɴᴀʟ❤️‍🔥](https://t.me/)**
-**• ᴘʀᴏᴏғs ✨: [🌹ᴅʀ sᴏɴᴀʟ🌹](https://t.me/)**
+**• ᴜᴘᴅᴀᴛᴇs ✨: [🌹ᴅʀ sᴏɴᴀʟ🌹](https://t.me/)**
 **• ᴏᴡɴᴇʀ 🫂: [👿ᴅʀ sᴏɴᴀʟ😈](https://t.me/)**
 ➖➖➖➖➖➖➖➖➖➖➖"""
 
@@ -44,4 +44,5 @@ async def alive(x: Client, msg: Message):
               await x.send_photo(msg.chat.id, ALIVE_PIC, caption=KEX)
        if ".mp4" in ALIVE_PIC or ".MP4," in ALIVE_PIC:
               await x.send_video(msg.chat.   id, ALIVE_PIC, caption=KEX)    
+
 
