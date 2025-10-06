@@ -28,11 +28,11 @@ from config import SUDO_USERS
 )
 async def repo(client, message):
     msg = f"""
-    ** ᴀɴɪᴍᴀʟ ᴜꜱᴇʀʙᴏᴛ **
+    ** ᴅʀ sᴏɴᴀʟ ᴜꜱᴇʀʙᴏᴛ **
 
     • **ɢɪᴛʜᴜʙ** » [click here](https://te.legra.ph/file/ec19cf227791a167abedc.jpg) 
-    • **ꜱᴜᴘᴘᴏʀᴛ** » [click here](https://t.me/tabahi_tabahi) 
-    • **ᴜᴘᴅᴀᴛᴇꜱ** » [click here](https://t.me/knight_society)
+    • **ᴘʀᴏᴏғs** » [click here](https://t.me/) 
+    • **ᴜᴘᴅᴀᴛᴇꜱ** » [click here](https://t.me/)
     • **ᴅᴇᴠᴇʟᴏᴘᴇʀ** » [click here](https://t.me/smartness_to_hai)
     
     **ʙʏ @smartness_to_hai**
