@@ -30,12 +30,12 @@ hl = "."
 FIRST_TEXT = f"""
 ✨ **ʙᴏᴛ ʜᴇʟᴘ** ✨
 
-**[ᴅʀ sᴏɴᴀʟ ᴜꜱᴇʀʙᴏᴛ](https://t.me/Dr_Sonal_Paid_Girl) ʜᴇʟᴘ ᴍᴇɴᴜ** 🥀
+**[ᴅʀ ᴘʀɪʏᴀɴᴋᴀ ᴜꜱᴇʀʙᴏᴛ](https://t.me/Dr_Priyanka_Paid_Girl) ʜᴇʟᴘ ᴍᴇɴᴜ** 🥀
 
 **ʜᴇʟᴘ ᴍᴇɴᴜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ᴀɴɪᴍᴀʟ](https://te.legra.ph/file/ec19cf227791a167abedc.jpg)** ✨
 
-**ᴘʀᴏᴏғs: [❤️‍🔥ᴅʀ sᴏɴᴀʟ❤️‍🔥](https://t.me/)**
-**ᴜᴘᴅᴀᴛᴇs: [🌹ᴅʀ sᴏɴᴀʟ🌹](https://t.me/)**
+**ᴘʀᴏᴏғs: [❤️‍🔥ᴅʀ ᴘʀɪʏᴀɴᴋᴀ❤️‍🔥](https://t.me/Dr_Priyanka_Proofs)**
+**ᴜᴘᴅᴀᴛᴇs: [🌹ᴅʀ ᴘʀɪʏᴀɴᴋᴀ🌹](https://t.me/Dr_Priyanka_Proofs)**
 
 **» ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ:** `{hl}helpbot`  
 **» ʀᴀɪᴅ/ꜱᴘᴀᴍ ᴄᴏᴍᴍᴀɴᴅꜱ:** `{hl}helpspam` 
