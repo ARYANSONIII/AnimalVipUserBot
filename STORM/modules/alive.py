@@ -27,7 +27,7 @@ from config import ALIVE_PIC, SUDO_USERS
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
-KEX = f"""ㅤ ᴅʀ sᴏɴᴀʟ ᴜꜱᴇʀʙᴏᴛ ‌🪽
+KEX = f"""ㅤ ᴅʀ ᴘʀɪʏᴀɴᴋᴀ ᴜꜱᴇʀʙᴏᴛ ‌🪽
 ➖➖➖➖➖➖➖➖➖➖➖
 **• ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** 🐍: `3.11.3`
 **• ᴜꜱᴇʀʙᴏᴛ ᴠᴇʀꜱɪᴏɴ** ⚙️: `M2.0`
@@ -44,6 +44,7 @@ async def alive(x: Client, msg: Message):
               await x.send_photo(msg.chat.id, ALIVE_PIC, caption=KEX)
        if ".mp4" in ALIVE_PIC or ".MP4," in ALIVE_PIC:
               await x.send_video(msg.chat.   id, ALIVE_PIC, caption=KEX)    
+
 
 
 
