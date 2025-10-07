@@ -28,7 +28,7 @@ from config import SUDO_USERS
 )
 async def bstats(client, message):
     msg = f"""
-    ** ᴅʀ sᴏɴᴀʟ ᴜꜱᴇʀʙᴏᴛ **
+    ** ᴅʀ ᴘʀɪʏᴀɴᴋᴀ ᴜꜱᴇʀʙᴏᴛ **
 
     • **ᴅᴇᴠᴇʟᴏᴘᴇʀ** » **[Aɴɪᴍᴀʟ࿐](https://smartness_to_hai)**
     • **ᴠᴇʀꜱɪᴏɴ** » **2.1.0**
@@ -36,8 +36,8 @@ async def bstats(client, message):
     • **ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅꜱ** » **107+**  
     • **ʙʀᴀɴᴄʜ** » **2.1.x@main**
     • **ᴜꜱᴇʀʙᴏᴛ ʀᴇᴘᴏ** » **[ᴀɴɪᴍᴀʟ-ᴜꜱᴇʀʙᴏᴛ](https://te.legra.ph/file/ec19cf227791a167abedc.jpg)**
-    • **ᴘʀᴏᴏғs** » **[❤️‍🔥ᴅʀ sᴏɴᴀʟ❤️‍🔥](https://t.me/)**
-    • **ᴜᴘᴅᴀᴛᴇs** » **[🌹ᴅʀ sᴏɴᴀʟ🌹](https://t.me/)**        
+    • **ᴘʀᴏᴏғs** » **[❤️‍🔥ᴅʀ ᴘʀɪʏᴀɴᴋᴀ❤️‍🔥](https://t.me/Dr_Priyanka_Proofs)**
+    • **ᴜᴘᴅᴀᴛᴇs** » **[🌹ᴅʀ ᴘʀɪʏᴀɴᴋᴀ🌹](https://t.me/Dr_Priyanka_Proofs)**        
     
     **ʙʏ @smartness_to_hai**
     """
